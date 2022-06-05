@@ -1,0 +1,3 @@
+pred_label
+corynebacterium_ulcerans
+pseudomonas_aeruginosa

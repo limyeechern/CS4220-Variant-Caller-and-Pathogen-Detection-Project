@@ -1,0 +1,6 @@
+pred_label
+burkholderia_pseudomallei
+corynebacterium_diphtheriae
+mycobacterium_tuberculosis
+mycobacterium_ulcerans
+pseudomonas_aeruginosa
